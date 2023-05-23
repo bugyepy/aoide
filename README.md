@@ -1,6 +1,6 @@
 # aoide
 
-make sounds, simple audio visualizer.
+simple audio visualizer.
 
 ## development
 

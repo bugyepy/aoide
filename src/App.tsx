@@ -1,5 +1,5 @@
 import React from "react";
-import { AudioVisualizer } from "../src/components/audioVisualizer";
+import { AudioAnalyzer } from "../src/components/audioAnalyzer";
 import { Canvas } from "@react-three/fiber";
 import { InitView } from "./components/initView";
 
@@ -17,7 +17,7 @@ function App() {
           backgroundColor: "black",
         }}
       >
-        <AudioVisualizer />
+        <AudioAnalyzer />
       </Canvas>
     );
   }
